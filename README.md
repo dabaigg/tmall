@@ -1,1 +1,1 @@
-! [text] (show/home.png)
+! [text](/show/home.png)
